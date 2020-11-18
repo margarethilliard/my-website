@@ -1,0 +1,16 @@
+---
+title: "Here's what I've been up to"
+author: "Margaret Hilliard"
+date: "Fall 2020"
+output:
+  rmarkdown::html_document:
+    theme: lumen
+---
+
+## Evolutionary Genomics & Bioinformatics Course 
+
+Please visit my [EvoGeno repository](https://github.com/margarethilliard/genomics-course) to reproduce any of the work I've done during the Fall semester. 
+
+## Stay Tuned
+
+I'll post the latest updates and news here. Comments are always welcome.

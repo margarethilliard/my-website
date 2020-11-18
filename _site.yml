@@ -1,0 +1,16 @@
+name: "Margaret Hilliard"
+output_dir: "docs"
+navbar:
+  title: "Margaret Hilliard"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+    - text: "My Work"
+      href: My-Work.html
+output:
+  rmarkdown::html_document:
+    theme: lumen
+    include:
+      after_body: footer.Rhtml
