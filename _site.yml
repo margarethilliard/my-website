@@ -8,7 +8,7 @@ navbar:
     - text: "About Me"
       href: about.html
     - text: "My Work"
-      href: My-Work.html
+      href: My-work.html
 output:
   rmarkdown::html_document:
     theme: lumen
