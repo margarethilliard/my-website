@@ -14,7 +14,7 @@ Please visit my [EvoGeno repository](https://github.com/margarethilliard/genomic
 
 ## In vitro data 
 
-I'm making a new growth data repository to show some trends I've found that will inform future growth assays. Check back soon.
+I'm filling out my new [growth data repository](https://github.com/margarethilliard/growth-data) slowly but surely and hope to show some trends I've found that will inform future growth assays. Check back soon.
 
 
 I'll post the latest updates and news here. Comments are always welcome.

@@ -6,3 +6,7 @@ output:
 ---
 
 Hello! This is my personal website where I'll keep everything from publications to blog posts. Thanks for visiting and come back soon. 
+
+![](images/Screen Shot 2020-12-27 at 9.27.06 AM.png){width=25%}
+
+
