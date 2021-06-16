@@ -5,7 +5,7 @@ output:
     theme: lumen
 ---
 
-Hello! This is my personal website where I'll keep everything from publications to blog posts. Thanks for visiting and come back soon. 
+Hello! This is my personal website where I'll share links to my publications, funding information, and cool things about my graduate school experience. Thanks for visiting! 
 
 ![](images/Screen Shot 2020-12-27 at 9.27.06 AM.png){width=25%}
 
