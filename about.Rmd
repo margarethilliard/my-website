@@ -9,7 +9,7 @@ Welcome! I'm a third year graduate student at the University of Massachusetts Am
 
 In my free time I enjoy bouldering, watching horror movies or documentaries, indoor gardening, reading science non-fiction, baking, watercolor painting, and playing board games!
 
-![This contraption is called a bioreactor!](images/bioreactior.png){width=25%}
+![This contraption is called a bioreactor! :) ](images/bioreactior.png){width=25%}
 
 ## About My Funding 
 
