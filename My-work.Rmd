@@ -1,6 +1,6 @@
 ---
 title: "Here's what I've been up to"
-date: "2020"
+date: "Updated Spring 2021"
 output:
   rmarkdown::html_document:
     theme: lumen
@@ -8,13 +8,15 @@ output:
 
 ## Course work
 
-### Evolutionary Genomics & Bioinformatics
+### Evolutionary Genomics & Bioinformatics (Fall 2020)
 
 Please visit my [EvoGeno repository](https://github.com/margarethilliard/genomics-course) to reproduce any of my course work. 
 
-## In vitro data 
+## Lab work 
 
-I'm filling out my new [growth data repository](https://github.com/margarethilliard/growth-data) slowly but surely and hope to show some trends I've found that will inform future growth assays. Check back soon.
+### *in vitro* growth data (Spring 2021)
+
+I'm filling out the [growth data repository](https://github.com/margarethilliard/growth-data) slowly but surely and hope to show some trends I've found that will inform future growth assays. Check back soon.
 
 ## Publications 
 
