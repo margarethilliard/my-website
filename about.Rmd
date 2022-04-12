@@ -16,6 +16,6 @@ In my free time I enjoy bouldering, watching horror movies or documentaries, ind
 ## About My Funding 
 
 >- For my first and last year, I've been generously funded by the Graduate School as a [Spaulding-Smith Fellow](https://www.umass.edu/graduate/inclusion/spaulding-smith-fellows).
->- I am also internally funded by The [Predissertation Research Grant](https://www.umass.edu/graduate/funding/internal-funding) to develop strain-specific RT-PCR primers in order to investigate competitive interactions among coexisting *B. infantis* strains. 
+>- I am also internally funded by The [Predissertation Research Grant](https://www.umass.edu/graduate/funding/internal-funding) to develop strain-specific qPCR primers in order to investigate competitive interactions among co-existing *B. infantis* strains. 
 >- I have previously been funded as a Teaching Assistant (TA) in the Biology Department and as a Research Assistant (RA) at the [Genomics Resource Labororatory](https://www.umass.edu/ials/genomics) on campus.
 >- I am currently an RA in the Food Science department working with our collaborators in the [Jarvin-Seppo Lab](https://www.urmc.rochester.edu/pediatrics/jarvinen-seppo-lab.aspx) at the University of Rochester (Rochester, NY).
