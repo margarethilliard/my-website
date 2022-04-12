@@ -5,9 +5,11 @@ output:
     theme: lumen
 ---
 
-Welcome! I'm a third year graduate student at the University of Massachusetts Amherst in the [Organismic and Evolutionary Biology program](https://gpls.cns.umass.edu/oeb) working with [Dr. David Sela](https://www.foodsci.umass.edu/faculty/david-sela) in the Food Science Department. I'm broadly interested in the evolution of inter-individual differences in human milk composition. Also, how maternal genetics and environmental exposures influence the development of the infant gut microbiome. I use molecular techniques to investigate carbohydrate scavenging in the infant gut commensal *Bifidobacterium longum* subsp. *infantis*. I also use a simplified *in vitro* model (shown below) of the distal gut microbiome to study how host-indigestible carbohydrates modulate fecal communities.
+I'm a third year graduate student at the University of Massachusetts Amherst in the [Organismic and Evolutionary Biology program](https://gpls.cns.umass.edu/oeb) working with [Dr. David Sela](https://www.foodsci.umass.edu/faculty/david-sela) in the Food Science Department. I'm broadly interested in the evolution of inter-individual differences in human milk composition. Also, how maternal genetics and environmental exposures influence the development of the infant gut microbiome. 
 
-In my free time I enjoy bouldering, watching horror movies or documentaries, indoor gardening, reading science non-fiction, baking, watercolor painting, and playing board games!
+I use molecular techniques to investigate carbohydrate scavenging in the infant gut commensal *Bifidobacterium longum* subsp. *infantis*. I also use a simplified *in vitro* model (shown below) of the distal gut microbiome to study how host-indigestible carbohydrates modulate fecal communities.
+
+In my free time I enjoy bouldering, watching horror movies or documentaries, indoor gardening, reading science non-fiction and classic fiction, baking, watercolor painting, and playing board games!
 
 ![This contraption is called a bioreactor! :) ](images/bioreactior.png){width=25%}
 
@@ -16,4 +18,4 @@ In my free time I enjoy bouldering, watching horror movies or documentaries, ind
 >- For my first and last year, I've been generously funded by the Graduate School as a [Spaulding-Smith Fellow](https://www.umass.edu/graduate/inclusion/spaulding-smith-fellows).
 >- I am also internally funded by The [Predissertation Research Grant](https://www.umass.edu/graduate/funding/internal-funding) to develop strain-specific RT-PCR primers in order to investigate competitive interactions among coexisting *B. infantis* strains. 
 >- I have previously been funded as a Teaching Assistant (TA) in the Biology Department and as a Research Assistant (RA) at the [Genomics Resource Labororatory](https://www.umass.edu/ials/genomics) on campus.
->- I am currently an RA in the Food Science department working with our collaborators at the [Jarvin-Seppo Lab](https://www.urmc.rochester.edu/pediatrics/jarvinen-seppo-lab.aspx) in Rochester, NY.
+>- I am currently an RA in the Food Science department working with our collaborators in the [Jarvin-Seppo Lab](https://www.urmc.rochester.edu/pediatrics/jarvinen-seppo-lab.aspx) at the University of Rochester (Rochester, NY).

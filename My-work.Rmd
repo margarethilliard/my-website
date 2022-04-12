@@ -12,14 +12,8 @@ output:
 
 Please visit my [EvoGeno repository](https://github.com/margarethilliard/genomics-course) to reproduce any of my course work. 
 
-## Lab work 
-
-### *in vitro* growth data (Spring 2021)
-
-I'm filling out the [growth data repository](https://github.com/margarethilliard/growth-data) slowly but surely and hope to show some trends I've found that will inform future growth assays. Check back soon.
-
 ## Publications 
 
 Here's a link to my [Google Scholar profile](https://scholar.google.com/citations?user=3Rg81DoAAAAJ&hl=en), where my publications live. 
 
-I'll post the latest updates and news here. Comments are always welcome.
+Comments are always welcome.
