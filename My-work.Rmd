@@ -1,6 +1,6 @@
 ---
 title: "Here's what I've been up to"
-date: "Updated Spring 2021"
+date: "Updated Spring 2022"
 output:
   rmarkdown::html_document:
     theme: lumen
