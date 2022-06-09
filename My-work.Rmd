@@ -12,8 +12,18 @@ output:
 
 Please visit my [EvoGeno repository](https://github.com/margarethilliard/genomics-course) to reproduce any of my course work. 
 
+## Research (coming soon!!!)
+
+### Microplate Growth Data (Fall 2021)
+
+This is a repository containing R Markdown files where I have taken raw microplate data and show you how I transform the data to visualize growth curves, endpoint OD600 readings, and growth rates on different substrates in R Studio.
+
+### Comparative Genomics (Spring 2022)
+
+I did a whole genome sequencing (WGS) run in the Fall of 2021! With all this BIG data, I take you through a journey where I visualize some of my results in R Studio using data from pipelines like [Prokka](https://github.com/tseemann/prokka), [Roary](https://github.com/sanger-pathogens/Roary), and [LS-BSR](https://github.com/jasonsahl/LS-BSR). 
+
 ## Publications 
 
 Here's a link to my [Google Scholar profile](https://scholar.google.com/citations?user=3Rg81DoAAAAJ&hl=en), where my publications live. 
 
-Comments are always welcome.
+Please contact me with any questions. Comments are always welcome. 
