@@ -13,7 +13,7 @@
 
 <title>About Me</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
@@ -141,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -277,10 +281,15 @@ Evolutionary Biology program</a> working with <a
 href="https://www.foodsci.umass.edu/faculty/david-sela">Dr. David
 Sela</a> in the <a href="https://www.foodsci.umass.edu/">Food Science
 Department</a>. I study human milk and and the ecology and evolution of
-the microbes that consume components of it. My current project examines
-population-level genetic differences in bacterial isolates from infants
-living in the Old Order Mennonite community and the greater Rochester,
-NY area. Often Mennonite infants have a <a
+the microbes that consume components of it.</p>
+<div class="figure">
+<img src="images/IMG_20200125_171229.jpg" style="width:25.0%" alt="" />
+<p class="caption">Sela Lab circa Fall 2019</p>
+</div>
+<p>My current project examines population-level genetic differences in
+bacterial isolates from infants living in the Old Order Mennonite
+community and the greater Rochester, NY area. Often Mennonite infants
+have a <a
 href="https://onlinelibrary.wiley.com/doi/10.1111/all.14877">greater
 abundance of beneficial bacteria</a> and we hypothesize this may be one
 reason why they also have lower occurrences of allergic diseases. With
@@ -295,14 +304,13 @@ as well as absorbance-based microbial growth phenotyping. I also use a
 simplified <em>in vitro</em> model (shown below) of the distal gut
 microbiome to study how host-indigestible carbohydrates modulate fecal
 communities.</p>
-<p>In my free time I enjoy bouldering, watching horror movies or
-documentaries, gardening, reading anything from science non-fiction to
-classic fiction, baking, watercolor painting, and playing board
-games!</p>
 <div class="figure">
 <img src="images/bioreactior.png" style="width:25.0%" alt="" />
 <p class="caption">This contraption is called a bioreactor! :)</p>
 </div>
+<p>In my free time I enjoy bouldering, quilting, watching horror movies
+or documentaries, reading (anything from non-fiction to classic
+fiction), baking, and playing board games!</p>
 <div id="about-my-funding" class="section level2">
 <h2>About My Funding</h2>
 <blockquote>
