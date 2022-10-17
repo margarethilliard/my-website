@@ -18,7 +18,7 @@ I use molecular techniques to investigate carbohydrate scavenging in the infant 
 
 In my free time I enjoy bouldering, quilting, watching horror movies or documentaries, reading (anything from non-fiction to classic fiction), baking, and playing board games!
 
-![Here is my latest and greatest quilt project!](images/IMG_1494.jpg)
+![Here is my latest and greatest quilt project!](images/IMG_1494.jpg){width=25%}
 
 ## About My Funding 
 
