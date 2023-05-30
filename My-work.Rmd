@@ -12,11 +12,11 @@ output:
 
 Please visit my [EvoGeno repository](https://github.com/margarethilliard/genomics-course) to reproduce any of my course work. 
 
-## Research (coming soon!!!)
+## Research (coming soon!)
 
 ### Microplate Growth Data (Fall 2021)
 
-This is a repository containing R Markdown files where I have taken raw microplate data and show you how I transform the data to visualize growth curves, endpoint OD600 readings, and growth rates on different substrates in R Studio.
+This is a (work in progress) repository that takes raw microplate data and turns them into nice growth curves, boxplots, etc.
 
 ### Comparative Genomics (Spring 2022)
 
