@@ -5,6 +5,6 @@ output:
     theme: lumen
 ---
 
-Hello! My name is Margaret Hilliard and I use she/her pronouns. This is my personal website where I keep links associated with my funding, publications, and work that I've done in graduate school. Thanks for visiting! 
+Hello! My name is Margaret A. Hilliard and I use she/her pronouns. This is my personal website where I keep links associated with my funding, publications, and work that I've done in graduate school. Thanks for visiting! 
 
 ![](images/Screen Shot 2020-12-27 at 9.27.06 AM.png){width=25%}
