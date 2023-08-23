@@ -1,7 +1,7 @@
-name: "Margaret Hilliard"
+name: "Margaret A. Hilliard"
 output_dir: "docs"
 navbar:
-  title: "Margaret Hilliard"
+  title: "Margaret A. Hilliard"
   left:
     - text: "Home"
       href: index.html

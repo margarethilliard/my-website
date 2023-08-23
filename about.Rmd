@@ -5,7 +5,7 @@ output:
     theme: lumen
 ---
 
-I'm a fourth year graduate student at the University of Massachusetts Amherst in the [Organismic and Evolutionary Biology program](https://gpls.cns.umass.edu/oeb) working with [Dr. David Sela](https://www.foodsci.umass.edu/faculty/david-sela) in the [Food Science Department](https://www.foodsci.umass.edu/). I study human milk and and the ecology and evolution of the microbes that consume components of it. 
+I'm entering my fifth year as a graduate student at the University of Massachusetts Amherst in the [Organismic and Evolutionary Biology program](https://gpls.cns.umass.edu/oeb) working with [Dr. David Sela](https://www.foodsci.umass.edu/faculty/david-sela) in the [Food Science Department](https://www.foodsci.umass.edu/). I study human milk and and the ecology and evolution of the microbes that consume components of it. 
 
 ![Lab mates circa Spring 2023](images/lab-photo.jpg){width=25%}
 

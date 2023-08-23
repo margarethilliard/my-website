@@ -8,22 +8,27 @@ output:
 
 ## Course work
 
-### Evolutionary Genomics & Bioinformatics (Fall 2020)
+#### Evolutionary Genomics & Bioinformatics (Fall 2020)
 
 Please visit my [EvoGeno repository](https://github.com/margarethilliard/genomics-course) to reproduce any of my course work. 
 
 ## Research (coming soon!)
 
-### Microplate Growth Data (Fall 2021)
+#### Microplate Growth Data (Fall 2021)
 
 This is a (work in progress) repository that takes raw microplate data and turns them into nice growth curves, boxplots, etc.
 
-### Comparative Genomics (Spring 2022)
+#### Comparative Genomics (Spring 2022)
 
 I did a whole genome sequencing (WGS) run in the Fall of 2021! With all this BIG data, I take you through a journey where I visualize some of my results in R Studio using data from pipelines like [Prokka](https://github.com/tseemann/prokka), [Roary](https://github.com/sanger-pathogens/Roary), and [LS-BSR](https://github.com/jasonsahl/LS-BSR). 
 
 ## Publications 
 
 Here's a link to my [Google Scholar profile](https://scholar.google.com/citations?user=3Rg81DoAAAAJ&hl=en), where my publications live. 
+
+
+## Curriculum vitae (CV)
+
+Here's a link to [my CV](https://docs.google.com/document/d/1iW5sefGnNr0f4F6pBbqrKRyagrb5O5vu/edit?usp=sharing&ouid=118337802901349466243&rtpof=true&sd=true), where you can browse my academic trajectory. 
 
 Please contact me with any questions. Comments are always welcome. 
